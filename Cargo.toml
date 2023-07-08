@@ -1,9 +1,9 @@
 [package]
 name = "headers-content-md5"
 description = "typed Content-MD5 header"
-version = "0.1.0"
+version = "0.1.1"
 readme = "README.md"
-license-file = "LICENSE"
+license = "MIT"
 repository = "https://github.com/sunsided/hyperium-headers-content-md5"
 authors = ["Markus Mayer <widemeadows@gmail.com>"]
 keywords = ["http", "headers", "hyper", "hyperium"]
