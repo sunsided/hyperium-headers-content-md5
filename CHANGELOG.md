@@ -7,6 +7,6 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
-- Upgraded to `http` 1.0. 
+- Upgraded to `http` 1.0.
 
 [0.2.0]: https://github.com/sunsided/hyperium-headers-content-md5/releases/tag/0.2.0
