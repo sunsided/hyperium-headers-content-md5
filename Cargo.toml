@@ -1,7 +1,7 @@
 [package]
 name = "headers-content-md5"
 description = "typed Content-MD5 header"
-version = "0.1.1"
+version = "0.2.0"
 readme = "README.md"
 license = "MIT"
 repository = "https://github.com/sunsided/hyperium-headers-content-md5"
@@ -11,6 +11,6 @@ categories = ["web-programming"]
 edition = "2021"
 
 [dependencies]
-base64 = "0.21.2"
-headers = "0.3.8"
-http = "0.2.0"
+base64 = "0.21.5"
+headers = "0.4.0"
+http = "1.0.0"

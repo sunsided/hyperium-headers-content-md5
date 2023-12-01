@@ -108,7 +108,6 @@ mod tests {
 
     #[test]
     fn encode_works() {
-        let value = HeaderValue::from_static("Q2hlY2sgSW50ZWdyaXR5IQ==");
         let md5 = ContentMd5("Check Integrity!".as_bytes().try_into().unwrap());
         let mut header = Vec::default();
         md5.encode(&mut header);
